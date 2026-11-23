@@ -1,0 +1,695 @@
+[
+  {
+    "name": "Jakarta",
+    "province": "DKI Jakarta",
+    "lat": -6.2088,
+    "lon": 106.8456,
+    "tzHours": 7,
+    "elevation": 8,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jakarta Pusat",
+    "province": "DKI Jakarta",
+    "lat": -6.1865,
+    "lon": 106.834,
+    "tzHours": 7,
+    "elevation": 8,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jakarta Selatan",
+    "province": "DKI Jakarta",
+    "lat": -6.2615,
+    "lon": 106.8106,
+    "tzHours": 7,
+    "elevation": 25,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jakarta Barat",
+    "province": "DKI Jakarta",
+    "lat": -6.1674,
+    "lon": 106.7637,
+    "tzHours": 7,
+    "elevation": 8,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jakarta Timur",
+    "province": "DKI Jakarta",
+    "lat": -6.225,
+    "lon": 106.9004,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jakarta Utara",
+    "province": "DKI Jakarta",
+    "lat": -6.1384,
+    "lon": 106.8636,
+    "tzHours": 7,
+    "elevation": 2,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Bogor",
+    "province": "Jawa Barat",
+    "lat": -6.5971,
+    "lon": 106.799,
+    "tzHours": 7,
+    "elevation": 200,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Depok",
+    "province": "Jawa Barat",
+    "lat": -6.4025,
+    "lon": 106.7942,
+    "tzHours": 7,
+    "elevation": 90,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Tangerang",
+    "province": "Banten",
+    "lat": -6.1783,
+    "lon": 106.6319,
+    "tzHours": 7,
+    "elevation": 20,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Tangerang Selatan",
+    "province": "Banten",
+    "lat": -6.288,
+    "lon": 106.718,
+    "tzHours": 7,
+    "elevation": 40,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Bekasi",
+    "province": "Jawa Barat",
+    "lat": -6.2383,
+    "lon": 106.9756,
+    "tzHours": 7,
+    "elevation": 20,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Bandung",
+    "province": "Jawa Barat",
+    "lat": -6.9175,
+    "lon": 107.6191,
+    "tzHours": 7,
+    "elevation": 750,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Cimahi",
+    "province": "Jawa Barat",
+    "lat": -6.872,
+    "lon": 107.542,
+    "tzHours": 7,
+    "elevation": 750,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Cirebon",
+    "province": "Jawa Barat",
+    "lat": -6.732,
+    "lon": 108.5523,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Tasikmalaya",
+    "province": "Jawa Barat",
+    "lat": -7.3274,
+    "lon": 108.2207,
+    "tzHours": 7,
+    "elevation": 350,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Sukabumi",
+    "province": "Jawa Barat",
+    "lat": -6.9277,
+    "lon": 106.93,
+    "tzHours": 7,
+    "elevation": 580,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Semarang",
+    "province": "Jawa Tengah",
+    "lat": -6.9666,
+    "lon": 110.4167,
+    "tzHours": 7,
+    "elevation": 4,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Surakarta",
+    "province": "Jawa Tengah",
+    "lat": -7.5755,
+    "lon": 110.8243,
+    "tzHours": 7,
+    "elevation": 105,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Magelang",
+    "province": "Jawa Tengah",
+    "lat": -7.4797,
+    "lon": 110.2177,
+    "tzHours": 7,
+    "elevation": 350,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Pekalongan",
+    "province": "Jawa Tengah",
+    "lat": -6.8886,
+    "lon": 109.6753,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Tegal",
+    "province": "Jawa Tengah",
+    "lat": -6.8694,
+    "lon": 109.1402,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Yogyakarta",
+    "province": "DI Yogyakarta",
+    "lat": -7.7956,
+    "lon": 110.3695,
+    "tzHours": 7,
+    "elevation": 113,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Sleman",
+    "province": "DI Yogyakarta",
+    "lat": -7.7167,
+    "lon": 110.35,
+    "tzHours": 7,
+    "elevation": 200,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Bantul",
+    "province": "DI Yogyakarta",
+    "lat": -7.8888,
+    "lon": 110.328,
+    "tzHours": 7,
+    "elevation": 50,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Surabaya",
+    "province": "Jawa Timur",
+    "lat": -7.2575,
+    "lon": 112.7521,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Malang",
+    "province": "Jawa Timur",
+    "lat": -7.9666,
+    "lon": 112.6326,
+    "tzHours": 7,
+    "elevation": 445,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Kediri",
+    "province": "Jawa Timur",
+    "lat": -7.8167,
+    "lon": 112.0167,
+    "tzHours": 7,
+    "elevation": 65,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Madiun",
+    "province": "Jawa Timur",
+    "lat": -7.6298,
+    "lon": 111.5239,
+    "tzHours": 7,
+    "elevation": 70,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jember",
+    "province": "Jawa Timur",
+    "lat": -8.1845,
+    "lon": 113.6681,
+    "tzHours": 7,
+    "elevation": 80,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Banyuwangi",
+    "province": "Jawa Timur",
+    "lat": -8.2192,
+    "lon": 114.3691,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Serang",
+    "province": "Banten",
+    "lat": -6.12,
+    "lon": 106.1503,
+    "tzHours": 7,
+    "elevation": 25,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Cilegon",
+    "province": "Banten",
+    "lat": -6.0174,
+    "lon": 106.053,
+    "tzHours": 7,
+    "elevation": 20,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Bandar Lampung",
+    "province": "Lampung",
+    "lat": -5.3971,
+    "lon": 105.2668,
+    "tzHours": 7,
+    "elevation": 50,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Palembang",
+    "province": "Sumatera Selatan",
+    "lat": -2.9761,
+    "lon": 104.7754,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Jambi",
+    "province": "Jambi",
+    "lat": -1.6101,
+    "lon": 103.6131,
+    "tzHours": 7,
+    "elevation": 25,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Bengkulu",
+    "province": "Bengkulu",
+    "lat": -3.8004,
+    "lon": 102.2655,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Padang",
+    "province": "Sumatera Barat",
+    "lat": -0.9471,
+    "lon": 100.4172,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Pekanbaru",
+    "province": "Riau",
+    "lat": 0.5071,
+    "lon": 101.4478,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Dumai",
+    "province": "Riau",
+    "lat": 1.6666,
+    "lon": 101.444,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Medan",
+    "province": "Sumatera Utara",
+    "lat": 3.5952,
+    "lon": 98.6722,
+    "tzHours": 7,
+    "elevation": 25,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Binjai",
+    "province": "Sumatera Utara",
+    "lat": 3.6,
+    "lon": 98.485,
+    "tzHours": 7,
+    "elevation": 20,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Banda Aceh",
+    "province": "Aceh",
+    "lat": 5.5483,
+    "lon": 95.3238,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Lhokseumawe",
+    "province": "Aceh",
+    "lat": 5.18,
+    "lon": 97.15,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Batam",
+    "province": "Kepulauan Riau",
+    "lat": 1.1301,
+    "lon": 104.0529,
+    "tzHours": 7,
+    "elevation": 20,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Tanjung Pinang",
+    "province": "Kepulauan Riau",
+    "lat": 0.918,
+    "lon": 104.455,
+    "tzHours": 7,
+    "elevation": 5,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Pangkalpinang",
+    "province": "Bangka Belitung",
+    "lat": -2.1316,
+    "lon": 106.1169,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Pontianak",
+    "province": "Kalimantan Barat",
+    "lat": -0.0263,
+    "lon": 109.3425,
+    "tzHours": 7,
+    "elevation": 1,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Singkawang",
+    "province": "Kalimantan Barat",
+    "lat": 0.9088,
+    "lon": 108.984,
+    "tzHours": 7,
+    "elevation": 10,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Palangka Raya",
+    "province": "Kalimantan Tengah",
+    "lat": -2.21,
+    "lon": 113.92,
+    "tzHours": 7,
+    "elevation": 25,
+    "tzNote": "WIB"
+  },
+  {
+    "name": "Banjarmasin",
+    "province": "Kalimantan Selatan",
+    "lat": -3.3186,
+    "lon": 114.5944,
+    "tzHours": 8,
+    "elevation": 1,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Banjarbaru",
+    "province": "Kalimantan Selatan",
+    "lat": -3.457,
+    "lon": 114.835,
+    "tzHours": 8,
+    "elevation": 20,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Balikpapan",
+    "province": "Kalimantan Timur",
+    "lat": -1.2379,
+    "lon": 116.8529,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Samarinda",
+    "province": "Kalimantan Timur",
+    "lat": -0.5022,
+    "lon": 117.1536,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Bontang",
+    "province": "Kalimantan Timur",
+    "lat": 0.1333,
+    "lon": 117.5,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Tarakan",
+    "province": "Kalimantan Utara",
+    "lat": 3.3273,
+    "lon": 117.5785,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Denpasar",
+    "province": "Bali",
+    "lat": -8.6705,
+    "lon": 115.2126,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Singaraja",
+    "province": "Bali",
+    "lat": -8.1152,
+    "lon": 115.092,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Mataram",
+    "province": "Nusa Tenggara Barat",
+    "lat": -8.5833,
+    "lon": 116.1167,
+    "tzHours": 8,
+    "elevation": 15,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Bima",
+    "province": "Nusa Tenggara Barat",
+    "lat": -8.46,
+    "lon": 118.7267,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Kupang",
+    "province": "Nusa Tenggara Timur",
+    "lat": -10.1772,
+    "lon": 123.607,
+    "tzHours": 8,
+    "elevation": 20,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Maumere",
+    "province": "Nusa Tenggara Timur",
+    "lat": -8.622,
+    "lon": 122.211,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Makassar",
+    "province": "Sulawesi Selatan",
+    "lat": -5.1477,
+    "lon": 119.4327,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Parepare",
+    "province": "Sulawesi Selatan",
+    "lat": -4.0135,
+    "lon": 119.625,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Manado",
+    "province": "Sulawesi Utara",
+    "lat": 1.4748,
+    "lon": 124.8421,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Bitung",
+    "province": "Sulawesi Utara",
+    "lat": 1.443,
+    "lon": 125.182,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Gorontalo",
+    "province": "Gorontalo",
+    "lat": 0.5435,
+    "lon": 123.0568,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Palu",
+    "province": "Sulawesi Tengah",
+    "lat": -0.9,
+    "lon": 119.87,
+    "tzHours": 8,
+    "elevation": 5,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Kendari",
+    "province": "Sulawesi Tenggara",
+    "lat": -3.9985,
+    "lon": 122.5127,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Mamuju",
+    "province": "Sulawesi Barat",
+    "lat": -2.668,
+    "lon": 118.888,
+    "tzHours": 8,
+    "elevation": 10,
+    "tzNote": "WITA"
+  },
+  {
+    "name": "Ambon",
+    "province": "Maluku",
+    "lat": -3.6954,
+    "lon": 128.1814,
+    "tzHours": 9,
+    "elevation": 5,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Ternate",
+    "province": "Maluku Utara",
+    "lat": 0.7907,
+    "lon": 127.384,
+    "tzHours": 9,
+    "elevation": 20,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Sofifi",
+    "province": "Maluku Utara",
+    "lat": 0.73,
+    "lon": 127.59,
+    "tzHours": 9,
+    "elevation": 10,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Jayapura",
+    "province": "Papua",
+    "lat": -2.5916,
+    "lon": 140.669,
+    "tzHours": 9,
+    "elevation": 10,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Sorong",
+    "province": "Papua Barat Daya",
+    "lat": -0.876,
+    "lon": 131.2558,
+    "tzHours": 9,
+    "elevation": 5,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Manokwari",
+    "province": "Papua Barat",
+    "lat": -0.8615,
+    "lon": 134.062,
+    "tzHours": 9,
+    "elevation": 10,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Merauke",
+    "province": "Papua Selatan",
+    "lat": -8.496,
+    "lon": 140.395,
+    "tzHours": 9,
+    "elevation": 5,
+    "tzNote": "WIT"
+  },
+  {
+    "name": "Timika",
+    "province": "Papua Tengah",
+    "lat": -4.545,
+    "lon": 136.89,
+    "tzHours": 9,
+    "elevation": 30,
+    "tzNote": "WIT"
+  }
+]

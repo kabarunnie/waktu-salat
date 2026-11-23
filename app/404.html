@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Halaman tidak ditemukan · Waktu Salat</title>
+<meta name="robots" content="noindex">
+<style>
+  body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0E1C1A;color:#F6F0E4;font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;text-align:center;padding:24px}
+  @media (prefers-color-scheme:dark){body{background:#07110F;color:#F6F0E4}}
+  .mark{width:64px;height:64px;border-radius:20px;background:#E3C07A;color:#1A1208;display:grid;place-items:center;font:italic 600 30px Georgia,serif;margin:0 auto 18px}
+  h1{font-size:24px;margin:0 0 8px}
+  a{display:inline-block;margin-top:18px;background:#E3C07A;color:#1A1208;text-decoration:none;font-weight:700;padding:14px 22px;border-radius:14px}
+</style>
+</head>
+<body>
+<main>
+  <div class="mark">W</div>
+  <h1>Halaman tidak ditemukan</h1>
+  <p>Halaman ini sudah pindah atau tidak ada.</p>
+  <a id="home" href="./">Kembali ke Waktu Salat</a>
+</main>
+<script>
+  (function () {
+    var seg = location.pathname.split("/").filter(Boolean)[0];
+    var base = /\.github\.io$/.test(location.hostname) && seg ? "/" + seg + "/" : "/";
+    document.getElementById("home").href = base;
+  })();
+</script>
+</body>
+</html>

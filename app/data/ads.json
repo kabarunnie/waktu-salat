@@ -1,0 +1,31 @@
+{
+  "provider": "adsgram",
+  "sdk": {
+    "adsgram": "https://sad.adsgram.ai/js/sad.min.js",
+    "monetag": ""
+  },
+  "blockIds": {
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  },
+  "interstitialMinIntervalMs": 180000,
+  "affiliates": {
+    "shopee": {
+      "enabled": false,
+      "url": "",
+      "label": "Lihat di Shopee"
+    },
+    "tokopedia": {
+      "enabled": false,
+      "url": "",
+      "label": "Lihat di Tokopedia"
+    }
+  },
+  "stars": {
+    "enabled": false,
+    "sku": "",
+    "label": "Hapus iklan",
+    "hintLabel": "Buka petunjuk dengan Stars"
+  }
+}
